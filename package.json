@@ -12,7 +12,7 @@
     "knex": "^1.0.3",
     "lodash": "^4.17.21",
     "mysql2": "^2.3.3",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "dotenv": "^14.2.0",
